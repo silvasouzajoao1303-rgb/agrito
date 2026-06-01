@@ -1,14 +1,27 @@
-# agrito🌱 Tema do Concurso
-Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
+# 🌾 Do Campo ao Copo: A Jornada do Malte em Guarapuava
 
-📌 Sobre o Projeto
-O projeto "Agro Forte, Futuro Sustentável" apresenta, de forma visual, interativa e educativa, a importância da harmonização entre o desenvolvimento agrícola e a conservação dos recursos naturais. A plataforma destaca como as práticas modernas no campo conseguem abastecer a sociedade enquanto protegem o ecossistema.
+Projeto desenvolvido para o **Concurso Agrinho 2026 – Categoria Programação**, na **Subcategoria 3: Programação Front-End – HTML, CSS e JavaScript**.
 
-A proposta mostra como o agronegócio, a tecnologia de precisão, a ciência, a sustentabilidade e a consciência ambiental estão conectados em uma mesma cadeia produtiva para garantir a segurança alimentar do amanhã.
+---
 
-Por meio de textos informativos, gráficos interativos, curiosidades e recursos dinâmicos, o site busca aproximar o visitante da realidade rural, desmistificando o impacto do setor e destacando a relevância de produzir com responsabilidade.
+## 🌱 Tema do Concurso
 
-🎯 Objetivo
-O objetivo do projeto é conscientizar os visitantes sobre a viabilidade da produção sustentável, mostrando que o crescimento econômico e o avanço tecnológico caminham juntos com o respeito à biodiversidade e à preservação ambiental.
+**Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente**
 
-O site busca explicar, de maneira simples e interativa, como práticas inovadoras de manejo do solo, economia circular e fontes de energia limpa geram impactos positivos para toda a sociedade, garantindo um futuro viável para as próximas gerações.
+---
+
+## 📌 Sobre o Projeto
+
+O projeto **"Do Campo ao Copo: A Jornada do Malte em Guarapuava"** apresenta, de forma visual, interativa e educativa, a trajetória da **cevada**, desde o cultivo no campo até sua transformação em **malte** e sua chegada à cidade.
+
+A proposta mostra como o **agronegócio**, a **tecnologia**, a **indústria**, a **sustentabilidade** e a **vida urbana** estão conectados em uma mesma cadeia produtiva.
+
+Por meio de textos, imagens, quiz, curiosidades, vídeo e história em quadrinhos, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
+
+---
+
+## 🎯 Objetivo
+
+O objetivo do projeto é conscientizar os visitantes sobre a importância da produção sustentável, mostrando que o desenvolvimento econômico pode caminhar junto com o cuidado com o meio ambiente.
+
+O site busca explicar, de maneira simples e interativa, como a cadeia produtiva da cevada e do malte envolve diferentes etapas, pessoas, tecnologias e impactos positivos para a sociedade.
