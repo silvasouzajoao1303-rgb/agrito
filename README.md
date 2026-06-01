@@ -1,27 +1,27 @@
-# 🌾 Do Campo ao Copo: A Jornada do Malte em Guarapuava
+# 🚜 Semeando o Amanhã: A Revolução do Agro Sustentável
 
 Projeto desenvolvido para o **Concurso Agrinho 2026 – Categoria Programação**, na **Subcategoria 3: Programação Front-End – HTML, CSS e JavaScript**.
 
 ---
 
-## 🌱 Tema do Concurso
+## 🌎 Diretriz do Projeto
 
 **Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente**
 
 ---
 
-## 📌 Sobre o Projeto
+## 🔍 Visão Geral
 
-O projeto **"Do Campo ao Copo: A Jornada do Malte em Guarapuava"** apresenta, de forma visual, interativa e educativa, a trajetória da **cevada**, desde o cultivo no campo até sua transformação em **malte** e sua chegada à cidade.
+O ecossistema digital **"Semeando o Amanhã"** foi idealizado para mapear e expor, de forma dinâmica e imersiva, como a tecnologia de ponta e a conservação da biodiversidade coexistem na agricultura moderna. O projeto traduz a rotina do campo sob a ótica da responsabilidade ecológica.
 
-A proposta mostra como o **agronegócio**, a **tecnologia**, a **indústria**, a **sustentabilidade** e a **vida urbana** estão conectados em uma mesma cadeia produtiva.
+A plataforma demonstra na prática como a **inovação digital**, o **manejo regenerativo**, a **preservação de recursos hídricos** e a **economia circular** formam a base para sustentar as cidades sem esgotar o planeta.
 
-Por meio de textos, imagens, quiz, curiosidades, vídeo e história em quadrinhos, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
+Utilizando uma interface rica em elementos interativos, simuladores de impacto, infográficos táteis e narrativas visuais, o site conecta o usuário diretamente à rotina dos produtores conscientes, destacando o valor real da segurança alimentar aliada à proteção ambiental.
 
 ---
 
-## 🎯 Objetivo
+## ⚡ Propósito
 
-O objetivo do projeto é conscientizar os visitantes sobre a importância da produção sustentável, mostrando que o desenvolvimento econômico pode caminhar junto com o cuidado com o meio ambiente.
+O grande propósito deste trabalho é evidenciar que a máxima produtividade agrícola e a integridade da natureza não são caminhos opostos, mas sim forças complementares. 
 
-O site busca explicar, de maneira simples e interativa, como a cadeia produtiva da cevada e do malte envolve diferentes etapas, pessoas, tecnologias e impactos positivos para a sociedade.
+Através de uma abordagem didática e acessível, o site detalha como o monitoramento inteligente, o uso de bioinsumos e o respeito aos biomas geram estabilidade econômica para o produtor e garantem a saúde climática e social para toda a população.
