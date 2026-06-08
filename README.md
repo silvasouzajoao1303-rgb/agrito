@@ -1,53 +1,40 @@
-#  🚜 Semeando o Amanhã: A Revolução do Agro Sustentável
+# 🚜 AgroEquilíbrio — Website Institucional
 
-Projeto desenvolvido para o **Concurso Agrinho 2026 – Categoria Programação**, na **Subcategoria 3: Programação Front-End – HTML, CSS e JavaScript**.
+> **"O futuro da terra depende do equilíbrio: força no campo, respeito à natureza."**
 
----
+Este é um projeto de website institucional responsivo e moderno, desenvolvido para conectar visualmente e conceitualmente a força produtiva do agronegócio à preservação e sustentabilidade ambiental.
 
-## 🌎 Diretriz do Projeto
-
-**Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente**
-
----
-
-## 🔍 Visão Geral
-
-O ecossistema digital **"Semeando o Amanhã"** foi idealizado para mapear e expor, de forma dinâmica e imersiva, como a tecnologia de ponta e a conservação da biodiversidade coexistem na agricultura moderna. O projeto traduz a rotina do campo sob a ótica da responsabilidade ecológica.
-
-A plataforma demonstra na prática como a **inovação digital**, o **manejo regenerativo**, a **preservação de recursos hídricos** e a **economia circular** formam a base para sustentar as cidades sem esgotar o planeta.
-
-Utilizando uma interface rica em elementos interativos, simuladores de impacto, infográficos táteis e narrativas visuais, o site conecta o usuário diretamente à rotina dos produtores conscientes, destacando o valor real da segurança alimentar aliada à proteção ambiental.
+![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/NOME_DO_REPOSITORIO?style=for-the-badge&color=2e7d32)
+![GitHub language count](https://img.shields.io/github/languages/count/SEU_USUARIO/NOME_DO_REPOSITORIO?style=for-the-badge&color=8d6e63)
 
 ---
 
-## ⚡ Propósito
+## 💻 Sobre o Projeto
 
-O grande propósito deste trabalho é evidenciar que a máxima produtividade agrícola e a integridade da natureza não são caminhos opostos, mas sim forças complementares. 
+O **AgroEquilíbrio** foi construído do zero com foco em performance, acessibilidade e design limpo (*clean*). A interface utiliza uma paleta de cores terrosas e esverdeadas para transmitir harmonia entre tecnologia no campo e respeito à biodiversidade.
 
-Através de uma abordagem didática e acessível, o site detalha como o monitoramento inteligente, o uso de bioinsumos e o respeito aos biomas geram estabilidade econômica para o produtor e garantem a saúde climática e social para toda a população.
-
-Projeto desenvolvido para o **Concurso Agrinho 2026 – Categoria Programação**, na **Subcategoria 3: Programação Front-End – HTML, CSS e JavaScript**.
-
----
-
-## 🌎 Diretriz do Projeto
-
-**Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente**
+### 🌟 Principais Funcionalidades
+* 📱 **Layout Totalmente Responsivo:** Adaptado para smartphones, tablets e desktops utilizando Flexbox.
+* 📜 **Scroll Suave (Smooth Scroll):** Navegação fluida entre as seções através do menu e botões de ação.
+* ✨ **Efeito Scroll Reveal:** Elementos e cards ganham vida com uma animação sutil de *fade-in* conforme o usuário explora a página.
+* 🚀 **Código Nativo:** Desenvolvido puramente com tecnologias web básicas, sem frameworks pesados.
 
 ---
 
-## 🔍 Visão Geral
+## 🛠️ Tecnologias Utilizadas
 
-O ecossistema digital **"Semeando o Amanhã"** foi idealizado para mapear e expor, de forma dinâmica e imersiva, como a tecnologia de ponta e a conservação da biodiversidade coexistem na agricultura moderna. O projeto traduz a rotina do campo sob a ótica da responsabilidade ecológica.
+O projeto foi desenvolvido utilizando a tríade fundamental da web:
 
-A plataforma demonstra na prática como a **inovação digital**, o **manejo regenerativo**, a **preservação de recursos hídricos** e a **economia circular** formam a base para sustentar as cidades sem esgotar o planeta.
-
-Utilizando uma interface rica em elementos interativos, simuladores de impacto, infográficos táteis e narrativas visuais, o site conecta o usuário diretamente à rotina dos produtores conscientes, destacando o valor real da segurança alimentar aliada à proteção ambiental.
+* 🗂️ **HTML5:** Estruturação semântica e acessível.
+* 🎨 **CSS3:** Estilização moderna, variáveis nativas (`:root`) e responsividade.
+* ⚡ **JavaScript (ES6):** Manipulação do DOM para interatividade e efeitos de animação ao rolar a página.
 
 ---
 
-## ⚡ Propósito
+## 📁 Estrutura de Arquivos
 
-O grande propósito deste trabalho é evidenciar que a máxima produtividade agrícola e a integridade da natureza não são caminhos opostos, mas sim forças complementares. 
-
-Através de uma abordagem didática e acessível, o site detalha como o monitoramento inteligente, o uso de bioinsumos e o respeito aos biomas geram estabilidade econômica para o produtor e garantem a saúde climática e social para toda a população.
+```text
+├── index.html       # Estrutura principal e conteúdo do site
+├── style.css        # Estilização, cores e regras de responsividade
+├── script.js        # Lógica de interatividade e animações
+└── README.md        # Documentação do projeto (este arquivo)
